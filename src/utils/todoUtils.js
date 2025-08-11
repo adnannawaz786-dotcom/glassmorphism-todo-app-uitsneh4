@@ -1,4 +1,4 @@
-```javascript
+
 /**
  * Utility functions for todo operations
  */
@@ -229,5 +229,5 @@ export const getUniqueCategories = (todos) => {
     .filter((category, index, arr) => arr.indexOf(category) === index);
   
   return categories.sort();
-};
+
 ```
