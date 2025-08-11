@@ -1,4 +1,3 @@
-```javascript
 import { useState, useEffect } from 'react';
 
 const STORAGE_KEY = 'glassmorphism-todos';
@@ -106,4 +105,3 @@ export const useTodos = () => {
     counts: getTodoCounts(),
   };
 };
-```
