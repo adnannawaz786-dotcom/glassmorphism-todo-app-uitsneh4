@@ -1,4 +1,3 @@
-```jsx
 import React from 'react';
 
 const TodoFilter = ({ currentFilter, onFilterChange, todoCounts }) => {
@@ -42,4 +41,3 @@ const TodoFilter = ({ currentFilter, onFilterChange, todoCounts }) => {
 };
 
 export default TodoFilter;
-```
