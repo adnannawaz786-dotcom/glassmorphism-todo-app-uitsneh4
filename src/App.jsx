@@ -1,4 +1,3 @@
-```jsx
 import React, { useState, useEffect } from 'react';
 import { Plus, Search, Filter, Check, Edit2, Trash2, X } from 'lucide-react';
 
@@ -268,4 +267,3 @@ function App() {
 }
 
 export default App;
-```
