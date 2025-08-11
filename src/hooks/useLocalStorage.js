@@ -1,4 +1,3 @@
-```javascript
 import { useState, useEffect } from 'react';
 
 /**
@@ -59,4 +58,3 @@ export const useLocalStorage = (key, initialValue) => {
 };
 
 export default useLocalStorage;
-```
