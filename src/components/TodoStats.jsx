@@ -1,4 +1,3 @@
-```jsx
 import React from 'react';
 
 const TodoStats = ({ todos }) => {
@@ -87,4 +86,3 @@ const TodoStats = ({ todos }) => {
 };
 
 export default TodoStats;
-```
