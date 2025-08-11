@@ -1,4 +1,3 @@
-```javascript
 // Todo filter types
 export const FILTER_TYPES = {
   ALL: 'all',
@@ -49,4 +48,3 @@ export const GLASS_STYLES = {
   HOVER: 'hover:bg-white/20 transition-all duration-300',
   ACTIVE: 'bg-white/30'
 };
-```
