@@ -1,4 +1,4 @@
-```jsx
+
 import React from 'react';
 import { Trash2, Edit3, Check, X } from 'lucide-react';
 
@@ -122,6 +122,5 @@ const TodoList = ({
     </div>
   );
 };
-
 export default TodoList;
 ```
