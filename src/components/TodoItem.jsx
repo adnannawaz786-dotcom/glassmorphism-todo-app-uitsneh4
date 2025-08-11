@@ -1,4 +1,4 @@
-```jsx
+
 import React, { useState } from 'react';
 import { Trash2, Edit3, Check, X } from 'lucide-react';
 
@@ -126,4 +126,3 @@ const TodoItem = ({ todo, onToggle, onDelete, onEdit }) => {
 };
 
 export default TodoItem;
-```
