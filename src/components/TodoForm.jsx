@@ -1,4 +1,4 @@
-```jsx
+
 import React, { useState } from 'react';
 import { Plus } from 'lucide-react';
 
@@ -82,4 +82,3 @@ const TodoForm = ({ onAddTodo }) => {
 };
 
 export default TodoForm;
-```
