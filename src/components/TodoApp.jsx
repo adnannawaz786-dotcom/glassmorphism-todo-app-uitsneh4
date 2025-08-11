@@ -1,4 +1,4 @@
-```jsx
+
 import React, { useState, useEffect } from 'react';
 import { Plus, Search, Filter, CheckCircle2, Circle, Edit3, Trash2, Save, X } from 'lucide-react';
 
@@ -287,4 +287,3 @@ const TodoApp = () => {
 };
 
 export default TodoApp;
-```
