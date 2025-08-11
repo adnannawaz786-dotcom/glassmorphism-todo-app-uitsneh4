@@ -1,4 +1,3 @@
-```css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -284,4 +283,3 @@
 .glass-input:focus-visible {
   @apply ring-2 ring-white/50 ring-offset-2 ring-offset-transparent;
 }
-```
